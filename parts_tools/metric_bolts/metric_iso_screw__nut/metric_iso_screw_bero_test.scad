@@ -42,9 +42,9 @@ use <metric_iso_screw.scad>
  */
 hex_screw_iso(
 		d=8,
-		lt=12, /*12*/
+		lt=6, /*12*/
 		cs=2,
-		ntl=15, /*15*/
+		ntl=18, /*15*/
 		ntd=0,
 		hg=4,
 		$fn=60
@@ -65,7 +65,7 @@ hex_screw_iso(
 translate([20, 0, 0])
 hex_nut_iso(
 		d=8,
-		hg=4,
+		hg=5,
 		$fn=60
 	);
 
