@@ -42,11 +42,11 @@ use <metric_iso_screw.scad>
  */
 hex_screw_iso(
 		d=8,
-		lt=12.5,
+		lt=12,
 		cs=2,
-		ntl=7.5,
+		ntl=0, /*15*/
 		ntd=0,
-		hg=3,
+		hg=4,
 		$fn=60
 	);
 
@@ -61,7 +61,8 @@ hex_screw_iso(
  * @param hg   height of the head,
  * @param $fn  should be 30 minimum (do not use $fs or $fa)
  */
-translate([0,0,10.5+6*1.25])
+//translate([0,0,10.5+6*1.25])
+translate([20, 0, 0])
 hex_nut_iso(
 		d=8,
 		hg=4,
