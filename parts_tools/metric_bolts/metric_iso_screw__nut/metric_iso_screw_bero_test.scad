@@ -42,7 +42,7 @@ use <metric_iso_screw.scad>
  */
 hex_screw_iso(
 		d=8,
-		lt=12,
+		lt=8, /*12*/
 		cs=2,
 		ntl=0, /*15*/
 		ntd=0,
