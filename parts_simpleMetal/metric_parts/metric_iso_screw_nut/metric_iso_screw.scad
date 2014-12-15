@@ -19,7 +19,7 @@
 
 // makes nuts and (negative) inner threads wider,
 // screws and outer threads tighter
-tolerance = 0.55; // 0.05
+tolerance = 0.2; // 0.05
 
 /*
  * creates a thread with on rotation below z = 0 and one rotation above the number of rotations
