@@ -1,3 +1,9 @@
+### Hello
+
+Dear Educators of Madison City Schools,
+
+Hi, I'm Christopher Bero, a recent graduate from MCS. 
+
 ### Cereally 3D
 
 I am pleased to present my ongoing project: Cereally 3D. For the past several weeks I have designed and begun construction on an adaptation to the popular consumer-grade Printrbot Simple Metal. 
