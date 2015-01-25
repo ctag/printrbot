@@ -1,0 +1,16 @@
+Dear Educators of Madison City Schools,
+
+In the interest of providing community involvement and more diverse curriculum to local students, I am pleased to discuss my ongoing project: Cereally 3D. For the past several weeks I have designed and begun construction of an adaptation to the popular consumer-grade "Printrbot Simple Metal" which I believe will enable very functional classroom projects and investigation. 
+
+3D Plastics Printers are an exciting new development, but they still lack serious and often simple technological advancements that are necessary for them to be ultimately useful in home and schoolground applications. At the core of every consumer grade printer is a design which does not allow the printer to be used in absence of a physical person. This is wasteful in that a person must be paid to attend to the regular operation of the printer, rather than just the malfunctions, and the printer loses return on investment for every hour someone is not present and it sits idle.
+
+My Cereally 3D kit will allow the printer to run semi-unattended, which should drastically reduce the cost of printing. There will still be botched prints, jams, filament changeovers and the like, but ultimately the printer will be able to produce more items in 24 hours with less overhead. I will also make use of the avate-garde polyactic acid filament, which produces biodegradable items. With this goal accomplished, I wish to make open use of the printer available to all Madison City classrooms. For free.
+
+I believe access to a 3 dimensional plastics printer can be integrated into most curriculums. For instance, how does the printer know the amount of plastic that a part will require before printing it? The answer is calculus, and closly resembles the 3 dimensional analysis conducted in AP Calculus B/C classes. 3D parts are also opening up new avenues of artwork and expression, provide an excellent introduction to serial communication, mechanical engineering, Python, Java, and C based programming languages, sustainable fabrication, CAD modelling, and much more.
+
+This semester I wish to progress as far toward my goal as possible, to do this I request your aid: to be successful I must generate and make available a collection of well-written materials to bring educators up to speed and help with integration into regular curriculi. I beilieve I will need proofreading, volunteers to test procedures, and feedback from Madison's students.
+
+Thank you for your time,
+
+Christopher Bero 
+csb0019@uah.edu
