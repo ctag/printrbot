@@ -1,0 +1,2 @@
+# Exclude generated g-code
+*.gcode
