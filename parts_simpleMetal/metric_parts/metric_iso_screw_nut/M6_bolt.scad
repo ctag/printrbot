@@ -38,10 +38,10 @@ use <metric_iso_screw.scad>
  */
 hex_screw_iso(
 		d=6,
-		lt=34,
+		lt=15,
 		cs=2,
 		ntl=1,
 		ntd=6,
-		hg=3,
+		hg=5,
 		$fn=60
 	);
